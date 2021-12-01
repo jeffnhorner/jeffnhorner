@@ -1,4 +1,4 @@
-### Yo! I'm Jeff
+### Yo! I'm Jeff 👨🏻‍💻
 
 
 Web wizard 🧙 and coffee enthusiast ☕️ currently building UIs for [evaluate.market](https://evaluate.market/) & [Renée](https://myrenee.io).
