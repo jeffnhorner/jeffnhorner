@@ -1,16 +1,18 @@
-### Hi there 👋
+### Yo! I'm Jeff
 
-<!--
-**jeffnhorner/jeffnhorner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Web wizard 🧙 and coffee enthusiast ☕️ currently building UIs for [evaluate.market](https://evaluate.market/) & [Renée](https://myrenee.io).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### Tools I'm passionate about 🛠
+
+![](https://img.shields.io/badge/JavaScript-Vue-%2341B883)
+![](https://img.shields.io/badge/Vue-Nuxt-%2341B883)
+![](https://img.shields.io/badge/Vue-Gridsome-%2341B883)
+
+![](https://img.shields.io/badge/JavaScript-React-%2361DBFB)
+![](https://img.shields.io/badge/Shopify-Hydrogen-%234c0cf1)
+![](https://img.shields.io/badge/CSS-tailwindcss-%2306B6D4)
+
+![](https://img.shields.io/badge/JavaScript-TypeScript-%232F74C0)
+![](https://img.shields.io/badge/JavaScript-Webpack-%2389CEF2)
+![](https://img.shields.io/badge/JavaScript-Jest-%2315C213)
