@@ -1,7 +1,7 @@
 ### Yo! I'm Jeff 👨🏻‍💻
 
 
-Web wizard 🧙🏻‍♂️ and coffee enthusiast ☕️ currently building reactive and performant UIs for [evaluate.market](https://evaluate.market/) and [Renée](https://myrenee.io), & apps for the [Shopify](https://shopify.com/) ecosystem.
+Web wizard 🧙🏻‍♂️ and coffee enthusiast ☕️ currently building reactive/fullstack applications for [The Knot Worldwide](https://www.theknotww.com/) and [Renée](https://myrenee.io), & apps for the [Shopify](https://shopify.com/) ecosystem.
 
 ##### Tools I'm passionate about 🛠
 
