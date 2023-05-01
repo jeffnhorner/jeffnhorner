@@ -19,3 +19,7 @@ Web wizard 🧙🏻‍♂️ and coffee enthusiast ☕️ currently building rea
 ![](https://img.shields.io/badge/JavaScript-TypeScript-%232F74C0)
 ![](https://img.shields.io/badge/Bundler-Webpack-%2389CEF2)
 ![](https://img.shields.io/badge/JavaScript-Jest-%2315C213)
+
+![](https://img.shields.io/badge/Javascript-Node-026e00)
+![](https://img.shields.io/badge/Javascript-Express-white)
+![](https://img.shields.io/badge/Javascript-Hapi-ed7d31)
