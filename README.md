@@ -1,7 +1,7 @@
 ### Yo, I'm Jeff 👨🏻‍💻
 
 
-Web wizard 🧙🏻‍♂️ and coffee enthusiast ☕️ currently building reactive/fullstack applications for [The Knot Worldwide](https://www.theknotww.com/), the [Shopify](https://shopify.com/) ecosystem, and an exciting new start up (details to come).
+Web wizard 🧙🏻‍♂️ and coffee enthusiast ☕️ currently building reactive/fullstack applications for [The Knot Worldwide](https://www.theknotww.com/), the [Shopify](https://shopify.com/) ecosystem, and [Prisca.io](https://github.com/priscalabs), a company I co-founded to help organizations organically manage, measure, and grow their community.
 
 ##### Tools I'm passionate about 🛠
 
